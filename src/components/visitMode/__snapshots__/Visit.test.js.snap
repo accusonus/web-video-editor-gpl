@@ -1,0 +1,341 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Visit Renders without crashing 1`] = `
+<div
+  className="desktopLayout"
+>
+  <div
+    className="containerIntro"
+  >
+    <div
+      className="titleContainer"
+    >
+      <h1
+        className="bigtitle"
+      >
+        Free Online Video Cutter
+      </h1>
+      <h2
+        className="middletitle"
+      >
+        Trim video of any format, right here in your browser
+      </h2>
+    </div>
+    <div
+      className="inputStyle"
+    >
+      <label
+        htmlFor="uploader"
+        id="uploader-label"
+      >
+        <input
+          accept="video/*"
+          id="uploader"
+          onChange={[Function]}
+          type="file"
+        />
+        <div
+          className="labelText"
+        >
+          Open file
+        </div>
+      </label>
+    </div>
+  </div>
+  <div
+    className="imageContainer"
+  >
+    <div
+      className="clapboardContainer"
+    >
+      <div
+        className="clapboard"
+      >
+        <img
+          alt="Online Video Cutter"
+          src="/img/clapboard.svg"
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    className="bgPaleWhite"
+  >
+    <div
+      className="instructions"
+    >
+      <div
+        className="instrTitle"
+      >
+        How to use this free video cutter
+      </div>
+      <div
+        className="threeColumnContainer"
+      >
+        <div
+          className="step"
+        >
+          <div
+            className="stepTitle"
+          >
+            1. Upload your video
+          </div>
+          <div
+            className="stepDescription"
+          >
+            Open a video file from your device.
+          </div>
+        </div>
+        <div
+          className="step"
+        >
+          <div
+            className="stepTitle"
+          >
+            2. Choose Start and End times
+          </div>
+          <div
+            className="stepDescription"
+          >
+            Use the sliders to select the length you want. Finely tune the cutting times with your arrow keys.
+          </div>
+        </div>
+        <div
+          className="step"
+        >
+          <div
+            className="stepTitle"
+          >
+            3. Download and Share!
+          </div>
+          <div
+            className="stepDescription"
+          >
+            Hit ‘Done’ to get your final, trimmed video! This online video cutter is completely free to use. No strings attached.
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="bgWhite"
+  >
+    <div
+      className="infoBoxes"
+    >
+      <div
+        className="threeColumnContainer"
+      >
+        <div
+          className="box"
+        >
+          <div
+            className="imageContainerBox"
+          >
+            <img
+              alt="A Fast & Free Video Cutter"
+              src="/img/scissors.svg"
+            />
+          </div>
+          <div
+            className="title"
+          >
+            A Fast & Free Video Cutter
+          </div>
+          <div
+            className="description"
+          >
+            Cut and trim by adjusting two simple markers. One for the desired beginning, one for the desired end.
+          </div>
+        </div>
+        <div
+          className="box"
+        >
+          <div
+            className="imageContainerBox"
+          >
+            <img
+              alt="Cut & Trim Any Video Format"
+              src="/img/play.svg"
+            />
+          </div>
+          <div
+            className="title"
+          >
+            Cut & Trim Any Video Format
+          </div>
+          <div
+            className="description"
+          >
+            AVI, MP4, VOB, MPG, MOV and many more - this online video trimmer can handle whatever file you give it.
+          </div>
+        </div>
+        <div
+          className="box"
+        >
+          <div
+            className="imageContainerBox"
+          >
+            <img
+              alt="A Fully Online Video Cutter"
+              src="/img/planet.svg"
+            />
+          </div>
+          <div
+            className="title"
+          >
+            A Fully Online Video Cutter
+          </div>
+          <div
+            className="description"
+          >
+            No program download, no software installation. Just fast and efficient online video trimming, right here in your browser.
+          </div>
+        </div>
+      </div>
+      <div
+        className="twoColumnContainer"
+      >
+        <div
+          className="box"
+        >
+          <div
+            className="imageContainerBox"
+          >
+            <img
+              alt="Simple, Easy-to-Use Controls"
+              src="/img/computer.svg"
+            />
+          </div>
+          <div
+            className="title"
+          >
+            Simple, Easy-to-Use Controls
+          </div>
+          <div
+            className="description"
+          >
+            No video editing skill needed. Just upload, adjust, then receive. All free, all online.
+          </div>
+        </div>
+        <div
+          className="box"
+        >
+          <div
+            className="imageContainerBox"
+          >
+            <img
+              alt="Safe & Secure"
+              src="/img/badge.svg"
+            />
+          </div>
+          <div
+            className="title"
+          >
+            Safe & Secure 
+            <br />
+             
+            <br />
+          </div>
+          <div
+            className="description"
+          >
+            This free video cutter is fully secure. Your files are only accessible to you, and you alone.
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="bgPaleWhite"
+  >
+    <div
+      className="textBox"
+    >
+      <div
+        className="textBoxtitle"
+      >
+        Online Video Cutter
+      </div>
+      <div
+        className="text"
+      >
+        <p>
+          Cutting and trimming videos is the simplest form of editing. Yet, it can still be annoying. Downloading software, fine-tuning lengths, exporting files... There’s an easier way.
+        </p>
+        <p>
+          This free video cutter by accusonus acts as your personal, fully-online trimming tool. No downloads, no hidden costs, and - most importantly - no wasted time!
+        </p>
+        <p>
+          The online video trimmer works with whatever video file you give it. MP4, AVI, MOV - and many more. Upload the file you want to edit through Dropbox, Google Drive, or your device itself.
+        </p>
+        <p>
+          Cutting videos is an easy way to improve the quality of your social media content. Create highlights, tune your videos, and boost your production value. All online, all in your browser.
+        </p>
+        <p>
+          We recommend this free online video cutter for video posts on TikTok, Instagram, Snapchat, YouTube, Facebook, and all other content platforms.
+        </p>
+      </div>
+      <div
+        className="textBoxtitle"
+      >
+        So, go get creating!
+      </div>
+    </div>
+  </div>
+  <div
+    className="bgWhite"
+  >
+    <div
+      className="products"
+    >
+      <div
+        className="twoColumnContainer"
+      >
+        <div
+          className="product"
+        >
+          <div
+            className="imageProduct"
+          >
+            <a
+              href="https://accusonus.com/products/audio-repair/era-bundle-standard"
+            >
+              <img
+                alt="ERA bundle"
+                src="/img/ERAbundle.jpg"
+              />
+            </a>
+          </div>
+          <div
+            className="caption"
+          >
+            Repair Video Audio on Mac or Windows
+          </div>
+        </div>
+        <div
+          className="product"
+        >
+          <div
+            className="imageProduct"
+          >
+            <a
+              href="https://accusonus.com/products/mauvio"
+            >
+              <img
+                alt="Mauvio"
+                src="/img/Mauvio.jpg"
+              />
+            </a>
+          </div>
+          <div
+            className="caption"
+          >
+            Repair Video Audio on iOS
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

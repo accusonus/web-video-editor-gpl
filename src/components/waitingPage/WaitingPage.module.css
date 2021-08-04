@@ -1,0 +1,45 @@
+.waitingPageContainer {
+  height: 70vh;
+  align-items: center;
+}
+
+.messageContainer {
+  margin: 0 auto;
+  max-width: 70em;
+  margin-top: 10em;
+  height: 20vh;
+}
+
+.mobileLayout .container {
+  margin: 0 auto;
+  width: 90%; 
+  margin-top: 6em;
+}
+
+.circle {
+  margin: 0 auto;
+  box-sizing: border-box;
+  width: 90px;
+  height: 90px;
+  border-radius: 100%;
+  border: 10px solid rgba(255, 255, 255, 0.2);
+  border-top-color: #FFF;
+  animation: spin 1s infinite linear;
+}
+
+@keyframes spin { 
+  100% { 
+    transform: rotate(360deg); 
+  } 
+} 
+
+.text {
+  margin-top: 0.9em;
+  color: #949494;
+  font-size: 2.5em;
+  line-height: 1.5em;
+}
+
+.mobileLayout .text {
+  font-size: 2em;
+}

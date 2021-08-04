@@ -1,0 +1,71 @@
+.App {
+  text-align: center;
+  align-items: center; 
+  width: 100%;
+}
+
+.editMode {
+  margin: 0 auto;
+  height: 92vh;
+  max-width: 70em;
+  display: grid;
+  align-items: center;
+}
+
+.mobileLayout .editMode {
+  width: 90%;  
+  margin: 0 auto;
+  display: flex;
+  flex-flow: column;
+  align-items: stretch;
+}
+
+.twoColumnContainer, .playerContainer {
+  display: inline-block;
+  margin: 0 auto;
+  max-width: 70em;
+  width: 100%;
+}
+
+.twoColumnContainer {
+  margin-top: 2em;
+}
+
+.player {
+  margin: 0 auto;
+  margin-top: 2em;
+  width: 60%;
+}
+
+.mobileLayout .player {
+  margin: 0 auto;
+  margin: 2em 0;
+  width: 100%;
+  order: 1;
+}
+
+.cutbutton {
+  float: right;
+}
+
+.mobileLayout .cutbutton {
+  margin: 0 auto;
+  order: 3;
+  margin-top: 1.5em;
+}
+
+.timelineFooter {
+  float: left;
+  margin-left: 1em;
+}
+
+.mobileLayout .timelineFooter {
+  margin: 0 auto;
+  order: 4;
+  margin-top: 1em;
+  margin-bottom: 2em;
+}
+
+.mobileLayout .timeline {
+  order: 2;
+}

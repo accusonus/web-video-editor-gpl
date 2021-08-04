@@ -1,0 +1,17 @@
+.cutbutton button {
+  margin: 0 auto;
+  background-color: #1E90FF;
+  line-height: 2.2em;
+  padding: 0.4em 2.7em;
+  border-radius: 1.4em; 
+  color: #FFFFFF;
+  font-weight: 700;
+  border: none;
+  cursor: pointer;
+  float: right;
+}
+
+.mobileLayout .cutbutton button {
+  padding: 0.3em 5em;
+  font-size: 1.2em;
+}

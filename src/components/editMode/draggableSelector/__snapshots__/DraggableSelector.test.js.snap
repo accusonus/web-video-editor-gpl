@@ -1,0 +1,141 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DraggableSelector Renders without crashing 1`] = `
+Array [
+  <div
+    className="selectionBox"
+    style={
+      Object {
+        "left": "0%",
+        "width": undefined,
+      }
+    }
+  />,
+  <div
+    className="selectionMask"
+    style={
+      Object {
+        "left": "0",
+        "width": undefined,
+      }
+    }
+  />,
+  <div
+    className="selectionMask"
+    style={
+      Object {
+        "right": "0",
+        "width": undefined,
+      }
+    }
+  />,
+  <div
+    className="timelineContainer"
+  >
+    <div
+      className="handleContainer react-draggable"
+      onMouseDown={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      style={
+        Object {
+          "transform": "translate(0px, 0px)translate(0px,0px)",
+        }
+      }
+      transform={null}
+    >
+      <div
+        className="handle"
+        id="handle"
+      />
+    </div>
+    <div
+      className="handleContainer react-draggable"
+      onMouseDown={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      style={
+        Object {
+          "transform": "translate(NaNpx, 0px)translate(0px,0px)",
+        }
+      }
+      transform={null}
+    >
+      <div
+        className="handle"
+        id="handle"
+      />
+    </div>
+  </div>,
+]
+`;
+
+exports[`DraggableSelector Renders without crashing 2`] = `
+Array [
+  <div
+    className="selectionBox"
+    style={
+      Object {
+        "left": "55.55555555555556%",
+        "width": "28.888888888888886%",
+      }
+    }
+  />,
+  <div
+    className="selectionMask"
+    style={
+      Object {
+        "left": "0",
+        "width": "55.55555555555556%",
+      }
+    }
+  />,
+  <div
+    className="selectionMask"
+    style={
+      Object {
+        "right": "0",
+        "width": "15.555555555555559%",
+      }
+    }
+  />,
+  <div
+    className="timelineContainer"
+  >
+    <div
+      className="handleContainer react-draggable"
+      onMouseDown={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      style={
+        Object {
+          "transform": "translate(0px, 0px)translate(0px,0px)",
+        }
+      }
+      transform={null}
+    >
+      <div
+        className="handle"
+        id="handle"
+      />
+    </div>
+    <div
+      className="handleContainer react-draggable"
+      onMouseDown={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      style={
+        Object {
+          "transform": "translate(NaNpx, 0px)translate(0px,0px)",
+        }
+      }
+      transform={null}
+    >
+      <div
+        className="handle"
+        id="handle"
+      />
+    </div>
+  </div>,
+]
+`;

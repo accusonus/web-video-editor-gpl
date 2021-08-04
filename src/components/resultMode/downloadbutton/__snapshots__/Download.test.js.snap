@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Download Renders without crashing 1`] = `
+<button
+  className="downloadButton"
+  onClick={[Function]}
+>
+  Download
+</button>
+`;

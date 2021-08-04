@@ -1,0 +1,46 @@
+.selectionBox {
+  margin: 0 auto;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  border: 3px solid #00B2FF;
+  border-left-width: 0.5em;
+  border-right-width: 0.5em;
+  border-radius: 0.3em;
+  overflow: visible;
+  z-index: 1;
+  transition: opacity 1s;
+  height: 100%;
+}
+  
+.selectionMask {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  overflow: visible;
+  background: black;
+  opacity: 0.6;
+}
+
+.timelineContainer {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+
+.handleContainer {
+  position: absolute; 
+  height: 100%; 
+  top: 0;
+  bottom: 0;
+  cursor: ew-resize;
+  transition: 0.1s;
+  z-index: 10;
+  opacity: 0; 
+}
+
+.handle {
+  width: 0.5em;
+  height: 100%;
+  left: 0;
+}

@@ -1,0 +1,372 @@
+/* General */
+.bgPaleWhite {
+  background: #F0F0F0;
+}
+
+.bgWhite {
+  background: #F9F9F9;
+}
+
+.twoColumnContainer, .threeColumnContainer {
+  display: inline-block;
+  max-width: 70em;
+  margin-top: 5em;
+}
+
+.mobileLayout .twoColumnContainer, .mobileLayout .threeColumnContainer {
+  display: grid;
+  width: 100%;
+  margin-top: 3em;
+}
+
+/* Intro  */
+.containerIntro {
+  margin: 0 auto;
+  height: 20em; 
+  padding-top: 3em;
+  max-width: 70em;
+}
+
+.mobileLayout .containerIntro {
+  width: 90%;
+  height: 22em;
+}
+
+.titleContainer {
+  margin: 0 auto;
+  margin-bottom: 3em;
+  color: #F0F0F0;
+}
+
+.bigtitle {
+  font-size: 4em;
+  line-height: 0.65em;
+  font-weight: 400;
+}
+
+.mobileLayout .bigtitle {
+  font-size: 2.5em;
+  line-height: 1em;
+  margin: 0 auto;
+  margin-bottom: 0.5em;
+}
+  
+.middletitle {
+  font-size: 1.5em;
+  line-height: 1em;
+  font-weight: 400;
+}
+
+.mobileLayout .middletitle {
+  font-size: 1.3em;
+  line-height: 1.2em;
+  width: 80%;
+  margin: 0 auto;
+  font-weight: 300;
+}
+
+.inputStyle input {
+  display: none;
+}
+
+.labelText {
+  color: #F0F0F0;
+  font-size: 1em;
+  transform: translateY(10%);
+}
+
+.mobileLayout .labelText {
+  transform: translateX(0) translateY(30%);
+  font-size: 1.5em;
+}
+
+.inputStyle label {
+  width: 18em;
+  height: 2.5em;
+  display: inline-block;
+  background-color:#1473E6;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.mobileLayout .inputStyle label {
+  width: 80%;
+  height: 3.3em;
+}
+
+.imageContainer {
+  position: relative;
+  width: 100%;
+  height: 14em; 
+}
+
+.mobileLayout .imageContainer{
+  height: 10em; 
+} 
+
+.clapboardContainer {
+  position: relative;
+  margin: 0 auto;
+  width: 83em;
+  height: 20em;
+}
+
+.mobileLayout .clapboardContainer {
+  width: 100%;
+} 
+
+.clapboard {
+  position: absolute;  
+}
+
+.mobileLayout .clapboard {
+  left: 50%;
+}
+
+.clapboardContainer .clapboard img {
+  height: 20em;
+}
+
+.mobileLayout .clapboard img {
+  height: 15em;
+  display: block;
+  position: relative;
+  left: -50%;
+}
+
+/* Instructions */
+
+.instructions {
+  margin: 0 auto;
+  height: 100%;
+  max-width: 70em;
+  padding-top: 6em;
+  padding-bottom: 5em;
+}
+  
+.mobileLayout .instructions {
+  width: 90%;  
+  padding-top: 8em;
+}
+  
+.instrTitle {
+  font-size: 2em;
+}
+  
+.mobileLayout .instrTitle {
+  width: 90%;
+  margin: 0 auto;
+  font-size: 2.5em;
+  line-height: 1.2em;
+}
+
+.step {
+  float: left;
+  width: 30%;
+  margin-right: 2%;
+}
+
+.step:first-child {
+  margin-left: 3%;
+}
+  
+.mobileLayout .step {
+  width: 100%;
+  margin: 0 auto;
+  float: none;
+  margin-bottom: 3em;
+}
+  
+.stepTitle {
+  font-weight: 700;
+  font-size: 1.3em;
+}
+
+.mobileLayout .stepTitle {
+  font-size: 1.3em;
+}
+  
+.stepDescription {
+  margin-top: 3%;
+  line-height: 1.1em;
+  font-size: 1em;
+}
+
+.mobileLayout .stepDescription {
+  width: 90%;
+  margin: 0 auto;
+}
+  
+/* Infoboxes */
+
+.infoBoxes {
+  margin: 0 auto;
+  height: 100%;
+  max-width: 70em;
+  padding-bottom: 5em;
+}
+
+.mobileLayout .infoBoxes {
+  width: 90%;  
+  padding-top: 3em;
+}
+
+.imageContainerBox img {
+  height: 2em;
+}
+
+.box {
+  float: left;
+  width: 25%;
+  margin-right: 6%;
+}
+
+.box:first-child {
+  margin-left: 7%;
+}
+
+.twoColumnContainer .box {
+  float: left;
+  width: 25%;
+}
+
+.twoColumnContainer .box:first-child {
+  margin-left: 25%;
+}
+
+.mobileLayout .box {
+  width: 100%;
+  margin: 0 auto;
+  float: none;
+  margin-bottom: 3em;
+}
+
+.mobileLayout .twoColumnContainer .box {
+  margin: 0 auto;
+  margin-bottom: 3em;
+}
+
+.mobileLayout .box:last-child {
+  margin-bottom: 1.5em;
+}
+
+.mobileLayout .twoColumnContainer .box:last-child .description {
+  margin-top: -1em;
+}
+
+.title {
+  font-size: 2.2em;
+  margin-top: 0.2em;
+  line-height: 1.2em;
+}
+
+.mobileLayout .title {
+  margin: 0 auto;
+  margin-top: 0.2em;
+}
+
+.description {
+  margin-top: 1em;
+  font-size: 0.9em;
+  line-height: 1.2em;
+}
+
+.mobileLayout .description {
+  margin: 0 auto;
+  margin-top: 1em;
+  width: 80%;
+  font-size: 1.2em;
+  line-height: 1.1em;
+}
+
+/* Textbox */
+
+.textBox {
+  margin: 0 auto;
+  padding: 4em 0;
+  max-width: 40em;
+}
+
+.mobileLayout .textBox {
+  padding-top: 2em;
+  padding-bottom: 2em;
+  margin: 0 auto;
+  width: 87%;
+}
+
+.textBox .textBoxtitle {
+  font-size: 2.4em;
+  line-height: 1.2em;
+  margin: 1em 0;
+}
+
+.mobileLayout .textBoxTitle {
+  margin: 0 auto;
+  font-size: 2em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.textBox p {
+  font-size: 1.4em;
+}
+
+.mobileLayout .textBox p {
+  font-size: 1.2em;
+}
+
+/* Products */
+
+.products {
+  margin: 0 auto;
+  height: 100%;
+  max-width: 70em;
+  padding-bottom: 5em;
+}
+
+.mobileLayout .products {
+  width: 90%;  
+  margin: 0 auto;
+  padding-top: 3em;
+  padding-bottom: 5em;
+}
+
+.products .twoColumnContainer {
+  width: 80%;
+}
+
+.mobileLayout .products .twoColumnContainer {
+  margin: 0 auto;
+}
+
+.imageProduct img {
+  width: 15em;
+}
+
+.mobileLayout .imageProduct img {
+  width: 18em;
+}
+
+.product {
+  float: left;
+  width: 50%;
+}
+
+.mobileLayout .product {
+  width: 100%;
+  margin: 0 auto;
+  float: none;
+  margin-bottom: 3em;
+}
+
+.caption {
+  margin: 0 auto;
+  margin-top: 0.5em;
+  width: 44%;
+  line-height: 1.2em;
+}
+
+.mobileLayout .caption {
+  width: 50%;
+  font-size: 1.2em;
+}

@@ -1,0 +1,483 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Timeline Renders without crashing 1`] = `
+<div
+  className="timelineWrapper"
+>
+  <div
+    className="rectangle"
+  >
+    <div
+      className="playhead"
+      id="playhead"
+      style={
+        Object {
+          "display": "inline-flex",
+          "left": "0%",
+        }
+      }
+    >
+      <div
+        className="playheadLine"
+      />
+      <div
+        className="playheadCircle"
+      />
+    </div>
+    <div
+      className="frameContainer"
+    >
+      <div
+        className="frame"
+        style={
+          Object {
+            "left": "0%",
+          }
+        }
+      >
+        <div
+          className="frame"
+        >
+          <video>
+            <source
+              src="undefined#t=NaN"
+            />
+          </video>
+        </div>
+      </div>
+      <div
+        className="frame"
+        style={
+          Object {
+            "left": "12.5%",
+          }
+        }
+      >
+        <div
+          className="frame"
+        >
+          <video>
+            <source
+              src="undefined#t=NaN"
+            />
+          </video>
+        </div>
+      </div>
+      <div
+        className="frame"
+        style={
+          Object {
+            "left": "25%",
+          }
+        }
+      >
+        <div
+          className="frame"
+        >
+          <video>
+            <source
+              src="undefined#t=NaN"
+            />
+          </video>
+        </div>
+      </div>
+      <div
+        className="frame"
+        style={
+          Object {
+            "left": "37.5%",
+          }
+        }
+      >
+        <div
+          className="frame"
+        >
+          <video>
+            <source
+              src="undefined#t=NaN"
+            />
+          </video>
+        </div>
+      </div>
+      <div
+        className="frame"
+        style={
+          Object {
+            "left": "50%",
+          }
+        }
+      >
+        <div
+          className="frame"
+        >
+          <video>
+            <source
+              src="undefined#t=NaN"
+            />
+          </video>
+        </div>
+      </div>
+      <div
+        className="frame"
+        style={
+          Object {
+            "left": "62.5%",
+          }
+        }
+      >
+        <div
+          className="frame"
+        >
+          <video>
+            <source
+              src="undefined#t=NaN"
+            />
+          </video>
+        </div>
+      </div>
+      <div
+        className="frame"
+        style={
+          Object {
+            "left": "75%",
+          }
+        }
+      >
+        <div
+          className="frame"
+        >
+          <video>
+            <source
+              src="undefined#t=NaN"
+            />
+          </video>
+        </div>
+      </div>
+      <div
+        className="frame"
+        style={
+          Object {
+            "left": "87.5%",
+          }
+        }
+      >
+        <div
+          className="frame"
+        >
+          <video>
+            <source
+              src="undefined#t=NaN"
+            />
+          </video>
+        </div>
+      </div>
+    </div>
+    <div
+      className="selectionBox"
+      style={
+        Object {
+          "left": "0%",
+          "width": undefined,
+        }
+      }
+    />
+    <div
+      className="selectionMask"
+      style={
+        Object {
+          "left": "0",
+          "width": undefined,
+        }
+      }
+    />
+    <div
+      className="selectionMask"
+      style={
+        Object {
+          "right": "0",
+          "width": undefined,
+        }
+      }
+    />
+    <div
+      className="timelineContainer"
+    >
+      <div
+        className="handleContainer react-draggable"
+        onMouseDown={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        style={
+          Object {
+            "transform": "translate(0px, 0px)translate(0px,0px)",
+          }
+        }
+        transform={null}
+      >
+        <div
+          className="handle"
+          id="handle"
+        />
+      </div>
+      <div
+        className="handleContainer react-draggable"
+        onMouseDown={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        style={
+          Object {
+            "transform": "translate(NaNpx, 0px)translate(0px,0px)",
+          }
+        }
+        transform={null}
+      >
+        <div
+          className="handle"
+          id="handle"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Timeline Renders without crashing 2`] = `
+<div
+  className="timelineWrapper"
+>
+  <div
+    className="rectangle"
+  >
+    <div
+      className="playhead"
+      id="playhead"
+      style={
+        Object {
+          "display": "inline-flex",
+          "left": "0%",
+        }
+      }
+    >
+      <div
+        className="playheadLine"
+      />
+      <div
+        className="playheadCircle"
+      />
+    </div>
+    <div
+      className="frameContainer"
+    >
+      <div
+        className="frame"
+        style={
+          Object {
+            "left": "0%",
+          }
+        }
+      >
+        <div
+          className="frame"
+        >
+          <video>
+            <source
+              src="undefined#t=0"
+            />
+          </video>
+        </div>
+      </div>
+      <div
+        className="frame"
+        style={
+          Object {
+            "left": "12.5%",
+          }
+        }
+      >
+        <div
+          className="frame"
+        >
+          <video>
+            <source
+              src="undefined#t=2.25"
+            />
+          </video>
+        </div>
+      </div>
+      <div
+        className="frame"
+        style={
+          Object {
+            "left": "25%",
+          }
+        }
+      >
+        <div
+          className="frame"
+        >
+          <video>
+            <source
+              src="undefined#t=4.5"
+            />
+          </video>
+        </div>
+      </div>
+      <div
+        className="frame"
+        style={
+          Object {
+            "left": "37.5%",
+          }
+        }
+      >
+        <div
+          className="frame"
+        >
+          <video>
+            <source
+              src="undefined#t=6.75"
+            />
+          </video>
+        </div>
+      </div>
+      <div
+        className="frame"
+        style={
+          Object {
+            "left": "50%",
+          }
+        }
+      >
+        <div
+          className="frame"
+        >
+          <video>
+            <source
+              src="undefined#t=9"
+            />
+          </video>
+        </div>
+      </div>
+      <div
+        className="frame"
+        style={
+          Object {
+            "left": "62.5%",
+          }
+        }
+      >
+        <div
+          className="frame"
+        >
+          <video>
+            <source
+              src="undefined#t=11.25"
+            />
+          </video>
+        </div>
+      </div>
+      <div
+        className="frame"
+        style={
+          Object {
+            "left": "75%",
+          }
+        }
+      >
+        <div
+          className="frame"
+        >
+          <video>
+            <source
+              src="undefined#t=13.5"
+            />
+          </video>
+        </div>
+      </div>
+      <div
+        className="frame"
+        style={
+          Object {
+            "left": "87.5%",
+          }
+        }
+      >
+        <div
+          className="frame"
+        >
+          <video>
+            <source
+              src="undefined#t=15.75"
+            />
+          </video>
+        </div>
+      </div>
+    </div>
+    <div
+      className="selectionBox"
+      style={
+        Object {
+          "left": "55.55555555555556%",
+          "width": "28.888888888888886%",
+        }
+      }
+    />
+    <div
+      className="selectionMask"
+      style={
+        Object {
+          "left": "0",
+          "width": "55.55555555555556%",
+        }
+      }
+    />
+    <div
+      className="selectionMask"
+      style={
+        Object {
+          "right": "0",
+          "width": "15.555555555555559%",
+        }
+      }
+    />
+    <div
+      className="timelineContainer"
+    >
+      <div
+        className="handleContainer react-draggable"
+        onMouseDown={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        style={
+          Object {
+            "transform": "translate(0px, 0px)translate(0px,0px)",
+          }
+        }
+        transform={null}
+      >
+        <div
+          className="handle"
+          id="handle"
+        />
+      </div>
+      <div
+        className="handleContainer react-draggable"
+        onMouseDown={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        style={
+          Object {
+            "transform": "translate(NaNpx, 0px)translate(0px,0px)",
+          }
+        }
+        transform={null}
+      >
+        <div
+          className="handle"
+          id="handle"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

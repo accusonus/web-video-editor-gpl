@@ -1,0 +1,31 @@
+.footer {
+  width: 100%;
+  background-color: #f0f0f0;
+  height: 7.3em;
+}
+
+.footerContainer {
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 0.5em;
+}
+
+.logo {
+  line-height: 3em;
+}
+
+.linksContainer {
+  margin-top: 0.1em;
+}
+  
+.link {
+  text-decoration: none;
+  user-select: none;
+  margin-left: 2.5em;
+  margin-right: 2.5em;
+}
+
+.mobileLayout .link {
+  margin-left: 1em;
+  margin-right: 1em;
+} 

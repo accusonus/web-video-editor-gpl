@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TimelineFooter Renders without crashing 1`] = `
+<div
+  className="output"
+>
+  Please select valid start and end time
+</div>
+`;
+
+exports[`TimelineFooter Renders without crashing 2`] = `
+<div
+  className="output"
+>
+  Final Output   
+  <span>
+    05.20
+  </span>
+</div>
+`;

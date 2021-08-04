@@ -1,0 +1,177 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer Desktop rendering 1`] = `
+<div
+  className="footer desktopLayout"
+>
+  <div
+    className="footerContainer"
+  >
+    <div
+      className="logo"
+    >
+      © 2021 Accusonus.com
+    </div>
+    <div
+      className="linksContainer"
+    >
+      <a
+        className="link"
+        href=""
+      >
+        Terms of use
+      </a>
+      <a
+        className="link"
+        href=""
+      >
+        Patents
+      </a>
+      <a
+        className="link"
+        href=""
+      >
+        Privacy Policy
+      </a>
+      <a
+        className="link"
+        href="https://github.com/accusonus/web-video-editor-gpl"
+      >
+        Get Source Code
+      </a>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Footer Mobile rendering 1`] = `
+<div
+  className="footer mobileLayout"
+>
+  <div
+    className="footerContainer"
+  >
+    <div
+      className="logo"
+    >
+      © 2021 Accusonus.com
+    </div>
+    <div
+      className="linksContainer"
+    >
+      <a
+        className="link"
+        href=""
+      >
+        Terms of use
+      </a>
+      <a
+        className="link"
+        href=""
+      >
+        Patents
+      </a>
+      <a
+        className="link"
+        href=""
+      >
+        Privacy Policy
+      </a>
+      <a
+        className="link"
+        href="https://github.com/accusonus/web-video-editor-gpl"
+      >
+        Get Source Code
+      </a>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Footer Renders without crashing 1`] = `
+<div
+  className="footer desktopLayout"
+>
+  <div
+    className="footerContainer"
+  >
+    <div
+      className="logo"
+    >
+      © 2021 Accusonus.com
+    </div>
+    <div
+      className="linksContainer"
+    >
+      <a
+        className="link"
+        href=""
+      >
+        Terms of use
+      </a>
+      <a
+        className="link"
+        href=""
+      >
+        Patents
+      </a>
+      <a
+        className="link"
+        href=""
+      >
+        Privacy Policy
+      </a>
+      <a
+        className="link"
+        href="https://github.com/accusonus/web-video-editor-gpl"
+      >
+        Get Source Code
+      </a>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Footer Tablet rendering 1`] = `
+<div
+  className="footer mobileLayout"
+>
+  <div
+    className="footerContainer"
+  >
+    <div
+      className="logo"
+    >
+      © 2021 Accusonus.com
+    </div>
+    <div
+      className="linksContainer"
+    >
+      <a
+        className="link"
+        href=""
+      >
+        Terms of use
+      </a>
+      <a
+        className="link"
+        href=""
+      >
+        Patents
+      </a>
+      <a
+        className="link"
+        href=""
+      >
+        Privacy Policy
+      </a>
+      <a
+        className="link"
+        href="https://github.com/accusonus/web-video-editor-gpl"
+      >
+        Get Source Code
+      </a>
+    </div>
+  </div>
+</div>
+`;

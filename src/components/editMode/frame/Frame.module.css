@@ -1,0 +1,7 @@
+.frame video {
+  margin: 0 auto;
+  pointer-events: none;
+  user-select: none;
+  max-height: 100%;
+  max-width: 100%;
+}

@@ -1,0 +1,38 @@
+.headerContainer { 
+  margin: 0 auto;
+  position: relative;
+  height: 4em;
+  background-color: #f9f9f9;
+  text-align: center;
+}
+
+.logoContainer {
+  margin: 0 auto;
+  position: relative;
+  height: 70%;
+  width: 70em;
+  padding: 1em;
+}
+
+.logo {
+  margin: 0 auto;
+  position: absolute;
+  padding-top: 0.1em;
+  float: left; 
+  display: block;
+  height: 2em;
+  width: 6em;
+}
+
+/* Mobile view */
+.mobileLayout .logoContainer {
+  padding: 1em 0;
+  width: 90%;
+  display: flex;
+  justify-content: center;
+}
+  
+.mobileLayout .logo {
+  display: inline-block;
+  align-items: center;
+}

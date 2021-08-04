@@ -1,0 +1,40 @@
+.banner {
+  position: relative;
+  height: 7.8vh;
+  text-align: center;
+  background-color: #1473E6;
+}
+
+.bannerContainer {
+  position: relative;
+  margin: 0 auto;
+  width: 70em;
+  height: 100%;
+}
+  
+.bannerText {
+  position: absolute;
+  top: 25%;
+  font-size: 1.5em;
+  color:#F0F0F0;
+  height: 100%;  
+}
+
+.bannerText a {
+  cursor: pointer;
+}
+
+.desktopLayout .bannerText {
+  width: 50%;
+  left: 0.5%;
+  text-align: left;
+}
+
+.mobileLayout .bannerContainer {
+  width: 90%;
+}
+
+.mobileLayout .bannerText {
+  width: 100%;
+  text-align: center;
+}

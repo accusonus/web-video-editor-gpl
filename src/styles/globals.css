@@ -1,0 +1,30 @@
+/* Import Mulish as a global font-family */
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;500;700;800;900&display=swap');
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Mulish', sans-serif;
+  font-size: 16px;
+  line-height: 32px;
+  background-color: #212121;
+  max-width: 100%;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+input[type='text'] {
+  font-family: 'Mulish', sans-serif;
+  color: #949494;
+  text-decoration: none;
+  background: #212121;
+  text-align: center;
+}
