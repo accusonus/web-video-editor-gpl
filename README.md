@@ -8,8 +8,11 @@ Features: Trimmer based on hackathon idea ([hackathon-untitled-web-project](http
 ## Environmental variables
 The following are needed for the app in order to run with custom preferences
 - `GTM_ID`: Google Tag Manager container ID
+
 In order to show the Header:
 - `NEXT_PUBLIC_ACCUSONUS_URL`
+
+
 In order to show the Footer:
 - `NEXT_PUBLIC_PATH_TERMS`
 - `NEXT_PUBLIC_PATH_POLICY`
