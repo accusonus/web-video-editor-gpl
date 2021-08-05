@@ -1,7 +1,5 @@
 # Web Video Editor
-Web video editor, a new era begins
-
-We want to create a Web Video Editing tool for audiences that they will need to use in their everyday work life fast. 
+https://video-cutter.accusonus.com/
 
 ## Environmental variables
 The following are needed for the app in order to run with custom preferences
